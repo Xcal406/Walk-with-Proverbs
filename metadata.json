@@ -1,0 +1,6 @@
+{
+  "name": "Daily Proverbs Journal",
+  "description": "A 365-day reflective study companion through the Book of Proverbs, guiding daily readings, character-growth journaling, and personalized spiritual reflections powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
